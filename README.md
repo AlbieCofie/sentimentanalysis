@@ -3,13 +3,12 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/AlbieCofie/sentimentanalysis.git)
 [![Read Article](https://img.shields.io/badge/Read-Article-purple)](https://medium.com/@albiecofie2000/building-a-covid-19-vaccine-sentiment-analysis-app-using-pre-trained-huggingface-models-961c00bfc7c3)
 [![Gradio App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/AlbieCofie/sentiment-classification-Gradio-App)
-![Fashion Model Content Fashion(1)](https://github.com/AlbieCofie/sentimentanalysis.git)
 
 # Introduction
 
-Work has already begun towards developing a COVID-19 vaccine. From measles to the common flu, vaccines have lowered the risk of illness and death, and have saved countless lives around the world. Unfortunately in some countries, the 'anti-vaxxer' movement has led to lower rates of vaccination and new outbreaks of old diseases.
+In the wake of the COVID-19 pandemic, our world has witnessed unprecedented challenges and changes in various aspects of life. Alongside the rapid spread of the virus, the internet and social media platforms have become critical sources of information and communication for people across the globe. These platforms have not only provided an avenue for disseminating vital updates but have also become a space for expressing emotions, opinions, and sentiments related to the pandemic.
 
-Although it may be many months before we see COVID-19 vaccines available on a global scale, it is important to monitor public sentiment towards vaccinations now and especially in the future when COVID-19 vaccines are offered to the public. The anti-vaccination sentiment could pose a serious threat to the global efforts to get COVID-19 under control in the long term.
+The development and distribution of COVID-19 vaccines have been monumental milestones in our battle against the global pandemic. These vaccines have provided hope and a pathway to recovery, offering protection against the severe effects of the virus. As vaccination efforts continue to progress worldwide, it becomes increasingly important to gauge public sentiment and understand the prevailing attitudes towards COVID-19 vaccines.
 
 **The objective of this challenge is to develop a machine learning model to assess if a Twitter post related to vaccinations is positive, neutral, or negative. This model will be deployed using streamlit on a Docker Container.**
 
@@ -29,7 +28,7 @@ Tweets have been classified as pro-vaccine (1), neutral (0) or anti-vaccine (-1)
 
 Files available for download are:
 
-**Train.csv** - Labelled tweets on which to train your model
+**Train.csv** - Labeled tweets on which to train your model
 
 **Test.csv** - Tweets that you must classify using your trained model
 
@@ -57,11 +56,12 @@ The evaluation metric for this challenge is the **Root Mean Squared Error**.
 
 ### Streamlit App
 
-![ezgif com-optimize](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/assets/102419217/de9740aa-dcc8-4215-bbf5-525f44db0050)
+![ezgif com-optimize](https://huggingface.co/spaces/AlbieCofie/sentiment-analysis-app)
+
 
 ### Gradio App
 
-![ezgif com-crop (1)](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/assets/102419217/e6177a08-f3b0-4bda-9a83-7031c36235b0)
+![ezgif com-crop (1)](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/AlbieCofie/sentiment-classification-Gradio-App)
 
 ## Resources
 
